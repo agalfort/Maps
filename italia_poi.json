@@ -1,75 +1,62 @@
 {
-    "title": "Lugares de Italia que no debes de olvidar visitar",
-    "description": "Recopilatorio de lugares interesantes para todas las personas que hacen turismo en Italia",
+    "title": "mapa de antenas",
+    "description": "Recopilacion de antenas",
     "location": {
-        "lat": -3.806389, 
-        "lng": -70.668806
+        "lat": 42.745725, 
+        "lng": 12.645894
     },
     "url": "https://blog.musement.com/es/los-15-lugares-mas-emblematicos-de-italia/",
     "points": [
-      {
+     {
+  "name": "AMZ.Atacuari",
   "lat": -3.806389,
   "lng": -70.668806,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago_como.jpeg",
-        "name": "AMZ.Atacuari",
-        "description": "El tercer lago más grande de Italia es, indudablemente, el más emblemático. Localizado en la región de Lombardía, está rodeado de poblaciones de las que quizás no hayas oído hablar nunca, como Bellagio, Tremezzo o Varenna, pero en cuanto las pises, sentirás amor a primera vista.",
-        "info": "https://es.wikipedia.org/wiki/Lago_de_Como",
-        "atribution": ""
-      },
-      {
+ },
+ {
+  "name": "AMZ.Atacuari",
   "lat": -3.806389,
   "lng": -70.668806,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/duomo_milan.jpeg",
-        "name": "Duomo de Milán",
-        "description": "La catedral de Milán (en italiano, Duomo di Milano) es una catedral gótica emplazada en la ciudad homónima. Es la sede episcopal de la Archidiócesis de Milán. Es una de las iglesias de culto católico más grandes del mundo (tiene 157 metros de largo y puede albergar más de 300 personas en su interior) y las ventanas del coro tienen la reputación de ser las mayores que se conocen.",
-        "info": "https://es.wikipedia.org/wiki/Catedral_de_Mil%C3%A1n",
-        "atribution": "Foto: dungodung on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
-      },
-      {
-     "lat": -3.806389,
-  "lng": -70.668806,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/santa_maria_grazie_milan.jpeg",
-        "name": "Santa Maria delle Grazie de Milán",
-        "description": "Santa Maria delle Grazie (Santa María de las Gracias) es una iglesia y convento de la Orden de Predicadores en Milán, Italia. El refectorio del convento está decorado con la célebre pintura mural La última cena, obra maestra de Leonardo da Vinci.",
-        "info": "https://es.wikipedia.org/wiki/Santa_Maria_delle_Grazie",
-        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
-      },
-      {
-    "lat": -1.749777,
-  "lng": -73.208834,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/arena_de_verona.jpeg",
-        "name": "Arena de Verona",
-        "description": "La Arena de Verona es un anfiteatro romano ubicado en la ciudad de Verona, Italia, conocido por las producciones de ópera que se realizan en él (Festival de Verona). Es una de las estructuras de su estilo mejor conservadas.",
-        "info": "https://es.wikipedia.org/wiki/Arena_de_Verona",
-        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
-      },
-      {
+ },
+ {
+  "name": "AMZ.Atacuari",
+  "lat": -3.806389,
+  "lng": -70.668806
+ },
+ {
+  "name": "AMZ.El Encanto",
   "lat": -1.749777,
-  "lng": -73.208834,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/basilica_san_marcos_venecia.jpeg",
-        "name": "Basílica de San Marcos de Venecia",
-        "description": "La basílica de San Marcos es el principal templo católico de la ciudad de Venecia (Italia) y la obra maestra de la arquitectura bizantina en el Véneto. Posee el rango de catedral y también el de iglesia patriarcal, además del de basílica.",
-        "info": "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Marcos",
-        "atribution": ""
-      },
-      {
-      "lat": -1.749777,
-  "lng": -73.208834,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/gran_canal_venecia.jpeg",
-        "name": "Gran Canal de Venecia",
-        "description": "El Gran Canal es el mayor canal de la ciudad de Venecia, la mayor zona húmeda de este país gracias a los múltiples canales de distinta longitud y anchura que lo riegan, en Italia. Este recorre Venecia trazando una S y le sigue en tamaño e importancia el canal Regio o Cannaregio.",
-        "info": "https://es.wikipedia.org/wiki/Gran_Canal_de_Venecia",
-        "atribution": "Foto: VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
-      },
-      {
-   "lat": -1.749777,
-  "lng": -73.208834,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/cinque_terre.jpeg",
-        "name": "Cinque Terre",
-        "description": "Se denomina Cinque Terre (en español, \"Cinco Tierras\") a una porción de costa formada por cinco pueblos en la provincia de La Spezia, bañada por el mar de Liguria en Liguria (Italia).",
-        "info": "https://es.wikipedia.org/wiki/Cinque_Terre",
-        "atribution": ""
-      }
+  "lng": -73.208834
+ },
+ {
+  "name": "AMZ.El Encanto",
+  "lat": -1.749777,
+  "lng": -73.208834
+ },
+ {
+  "name": "AMZ.El Encanto",
+  "lat": -1.749777,
+  "lng": -73.208834
+ },
+ {
+  "name": "AMZ.El Encanto",
+  "lat": -1.749777,
+  "lng": -73.208834
+ },
+ {
+  "name": "AMZ.Fuerte Amazonas",
+  "lat": -4.10115,
+  "lng": -70.0423
+ },
+ {
+  "name": "AMZ.Fuerte Amazonas",
+  "lat": -4.10115,
+  "lng": -70.0423
+ },
+ {
+  "name": "AMZ.Fuerte Amazonas",
+  "lat": -4.10115,
+  "lng": -70.0423
+ }
     ]
   }
   
