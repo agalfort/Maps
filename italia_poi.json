@@ -1,62 +1,48 @@
 {
-    "title": "mapa de antenas",
-    "description": "Recopilacion de antenas",
+    "title": "Lugares de Italia que no debes de olvidar visitar",
+    "description": "Recopilatorio de lugares interesantes para todas las personas que hacen turismo en Italia",
     "location": {
-        "lat": -3.806389,
-        "lng": -70.668806
+        "lat": 42.745725, 
+        "lng": 12.645894
     },
     "url": "https://blog.musement.com/es/los-15-lugares-mas-emblematicos-de-italia/",
     "points": [
       {
-  "name": "AMZ.Atacuari",
-  "lat": -3.806389,
-  "lng": -70.668806,
- },
- {
-  "name": "AMZ.Atacuari",
-  "lat": -3.806389,
-  "lng": -70.668806,
- },
- {
-  "name": "AMZ.Atacuari",
-  "lat": -3.806389,
-  "lng": -70.668806
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
- }
+        "lat": -3,806389, 
+        "lng": -7,0668806,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago_como.jpeg",
+        "name": "Lago Como",
+        "description": "El tercer lago más grande de Italia es, indudablemente, el más emblemático. Localizado en la región de Lombardía, está rodeado de poblaciones de las que quizás no hayas oído hablar nunca, como Bellagio, Tremezzo o Varenna, pero en cuanto las pises, sentirás amor a primera vista.",
+        "info": "https://es.wikipedia.org/wiki/Lago_de_Como",
+        "atribution": ""
+      },
+      {
+        "lat": -3806389,
+        "lng": -70668806,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/duomo_milan.jpeg",
+        "name": "Duomo de Milán",
+        "description": "La catedral de Milán (en italiano, Duomo di Milano) es una catedral gótica emplazada en la ciudad homónima. Es la sede episcopal de la Archidiócesis de Milán. Es una de las iglesias de culto católico más grandes del mundo (tiene 157 metros de largo y puede albergar más de 300 personas en su interior) y las ventanas del coro tienen la reputación de ser las mayores que se conocen.",
+        "info": "https://es.wikipedia.org/wiki/Catedral_de_Mil%C3%A1n",
+        "atribution": "Foto: dungodung on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
+      },
+      {
+        "lat": -3806389,
+        "lng": -70668806
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/santa_maria_grazie_milan.jpeg",
+        "name": "Santa Maria delle Grazie de Milán",
+        "description": "Santa Maria delle Grazie (Santa María de las Gracias) es una iglesia y convento de la Orden de Predicadores en Milán, Italia. El refectorio del convento está decorado con la célebre pintura mural La última cena, obra maestra de Leonardo da Vinci.",
+        "info": "https://es.wikipedia.org/wiki/Santa_Maria_delle_Grazie",
+        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
+      },
+      {
+        "lat": 45.438889,
+        "lng": 10.994444,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/arena_de_verona.jpeg",
+        "name": "Arena de Verona",
+        "description": "La Arena de Verona es un anfiteatro romano ubicado en la ciudad de Verona, Italia, conocido por las producciones de ópera que se realizan en él (Festival de Verona). Es una de las estructuras de su estilo mejor conservadas.",
+        "info": "https://es.wikipedia.org/wiki/Arena_de_Verona",
+        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
+      }
     ]
   }
   
