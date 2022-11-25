@@ -7,55 +7,29 @@
     },
     "url": "https://blog.musement.com/es/los-15-lugares-mas-emblematicos-de-italia/",
     "points": [
-      {
+     {
   "name": "AMZ.Atacuari",
   "lat": -3.806389,
-  "lng": -70.668806
- },
- {
-  "name": "AMZ.Atacuari",
-  "lat": -3.806389,
-  "lng": -70.668806
- },
- {
-  "name": "AMZ.Atacuari",
-  "lat": -3.806389,
-  "lng": -70.668806
+  "lng": -70.668806,
+  "Sector": 1,
+  "alturaAntena": 100000000,
+  "tipoAntena": "K742266",
+  "Azimuth": 330,
+  "tiltElectrico": 1,
+  "CellId": 18351,
+  "LAC": 531
  },
  {
   "name": "AMZ.El Encanto",
   "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.El Encanto",
-  "lat": -1.749777,
-  "lng": -73.208834
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
- },
- {
-  "name": "AMZ.Fuerte Amazonas",
-  "lat": -4.10115,
-  "lng": -70.0423
+  "lng": -73.208834,
+  "Sector": 1,
+  "alturaAntena": 36000000,
+  "tipoAntena": "K742264",
+  "Azimuth": 90,
+  "tiltElectrico": 3,
+  "CellId": 16471,
+  "LAC": 3980
  }
     ]
   }
