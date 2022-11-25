@@ -54,6 +54,18 @@
   "tiltElectrico": 3,
   "CellId": 16471,
   "LAC": 3980
+ },
+ {
+  "name": "ANT.Abejorral",
+  "lat": 5.788638,
+  "lng": -75.4229,
+  "Sector": "M1",
+  "alturaAntena": 30000000,
+  "tipoAntena": "TGA-D3-800TV",
+  "Azimuth": 240,
+  "tiltElectrico": 8,
+  "CellId": 134537160,
+  "LAC": 25006
  }
     ]
   }
